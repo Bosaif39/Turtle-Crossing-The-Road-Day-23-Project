@@ -8,7 +8,7 @@ This is the day 23 project of the course 100 Days of Code: The Complete Python P
 ## Files
 
 ### 1. `car_manager.py`
-Handles the creation, movement, and management of cars in the game. Cars are represented as turtles with varying colors and speeds. The `CarManager` class includes methods to:
+Handles the creation, movement, and management of cars in the game. Cars are represented as squares with varying colors and speeds. The `CarManager` class includes methods to:
 - Create new cars with random attributes.
 - Move all cars across the screen.
 - Increase car speed as the game progresses.
@@ -41,4 +41,4 @@ In this game, you control a turtle that needs to cross a busy road filled with m
 
 ## **Example**
 
-![alt text](https://github.com/Bosaif39/example-pics/blob/main/D_20_21.png?raw=true)
+![alt text]()
