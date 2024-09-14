@@ -2,12 +2,12 @@
 
 ## Overview
 This is the day 23 project of the course 100 Days of Code: The Complete Python Pro Bootcamp. 
-### 1. `food.py`
+### 1. `car_manager.py`
 
-### 2. `scoore.py`
+### 2. `player.py`
 
 
-### 3. `snake.py`
+### 3. `scoreboard.py`
 
 ### 4. `main.py`
 
