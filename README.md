@@ -34,11 +34,13 @@ The entry point of the game that sets up the screen, creates game objects, and r
 ## Gameplay
 In this game, you control a turtle that needs to cross a busy road filled with moving cars. Use the "Up" arrow key to move the turtle forward. Avoid collisions with the cars and try to reach the finish line to level up. As you progress, the speed of the cars will increase.
 
-## Requirements
-
-- Python 3.x
-- `turtle` module (comes pre-installed with Python)
 
 ## **Example**
 
 ![alt text](https://github.com/Bosaif39/example-pics/blob/main/D_23.PNG?raw=true)
+
+
+## Requirements
+
+- Python 3.x
+- `turtle` module (comes pre-installed with Python)
